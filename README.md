@@ -4,9 +4,45 @@
 </div>
 <div id="socials" align="center">
     <a href="https://t.me/Mr_Shekelman">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
 </div>
+
+
+### About me
+
+- 🌱 I’m currently learning **C/C++**
+- ⚡ Fun fact: I love math so much
+
+### Languages and tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="CPP" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" title="grafana" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" title="prometheus" width="40" height="40"/>&nbsp;
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="qt" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
+          
+          
+          
+          
+          
+          
+          
+          
 
 <!--
 **NorridgeGayla/NorridgeGayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
