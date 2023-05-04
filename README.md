@@ -1,4 +1,7 @@
-### Hi there 👋
+<dev id="header" align="center">
+    <h1>Hi, there! I'm Denis</h1>
+    <h3>Student of the main education program at School-21 from Irkutsk</h3>
+</dev>
 
 <!--
 **NorridgeGayla/NorridgeGayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
