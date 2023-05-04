@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi, there! I'm Denis</h1>
-    <h3>Student of the main education program at School-21 from Irkutsk</h3>
+    <h3>Student of the main education program at School 21 (Sber) from Irkutsk</h3>
 </div>
 <div id="socials" align="center">
     <a href="https://t.me/Mr_Shekelman">
