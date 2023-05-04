@@ -28,6 +28,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="qt" width="50" height="50"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="50" height="50"/>&nbsp;
 </div>
+
+---
                   
 ### My stat
 
