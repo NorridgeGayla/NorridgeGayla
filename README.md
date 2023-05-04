@@ -7,12 +7,13 @@
         <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
 </div>
-
-
+ 
 ### About me
 
 - 🌱 I’m currently learning **C/C++**
 - ⚡ Fun fact: I love math so much
+
+---
 
 ### Languages and tools
 
@@ -26,26 +27,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="qt" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
-          
-          
-          
-          
-          
-          
-          
-          
+                  
+### My stat
 
-<!--
-**NorridgeGayla/NorridgeGayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="stat" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorridgeGayla&theme=github_dark)" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorridgeGayla&theme=github_dark" alt=""/>
+     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorridgeGayla&theme=github_dark" alt=""/>
+</div>
