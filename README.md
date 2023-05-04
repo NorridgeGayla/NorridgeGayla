@@ -2,6 +2,11 @@
     <h1>Hi, there! I'm Denis</h1>
     <h3>Student of the main education program at School-21 from Irkutsk</h3>
 </div>
+<div id="socials" align="center">
+    <a href="https://t.me/Mr_Shekelman">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+</div>
 
 <!--
 **NorridgeGayla/NorridgeGayla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
