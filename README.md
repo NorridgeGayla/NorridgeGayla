@@ -31,7 +31,7 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorridgeGayla&theme=github_dark)" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NorridgeGayla&theme=github_dark" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NorridgeGayla&theme=github_dark" alt=""/>
      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NorridgeGayla&theme=github_dark" alt=""/>
 </div>
